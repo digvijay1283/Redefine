@@ -31,14 +31,14 @@ const About = () => {
   return (
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
-        <h2 className=" text-sm uppercase md:text-[10px]">
+        <h2 className=" text-sm uppercase md:text-[20px]" style={{fontFamily:'zentry'}}>
           Welcome to Zentry
         </h2>
 
         <AnimatedTitle title="Disc<b>o</b>ver the world's <br /> l<b>a</b>rgest shared adventure" containerClass="mt-5 !text-black text-center"/>
              
 
-        <div className="about-subtext">
+        <div className="about-subtext" style={{fontFamily:'zentry'}}>
           <p>The Game of Games begins—your life, now an epic MMORPG</p>
           <p className="text-black">
             Zentry unites every player from countless games and platforms, both

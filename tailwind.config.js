@@ -11,6 +11,8 @@ export default {
         robert_regular: ['Roobert_Regular', 'sans-serif'],
         zentry: ['ZENTRY_Regular', 'sans-serif'],
         general: ['fontt', 'sans-serif'],
+        valorax:['valorax','sans-serif'],
+        knight:['knight','sans-serif']
       },
     },
   },
